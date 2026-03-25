@@ -1,12 +1,12 @@
 import { motion } from "framer-motion"
 
 const portfolioItems = [
-  "/portfolio-website-design-preview-modern.jpg",
-  "/photography-portfolio-website-clean.jpg",
-  "/architecture-firm-website-minimal.jpg",
-  "/design-agency-portfolio-dark-theme.jpg",
-  "/artist-portfolio-website-creative.jpg",
-  "/writer-portfolio-website-elegant.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/9b089a6d-ff15-4f3b-95fe-090d3a886c14.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/71ab8fa4-a7f9-4ca9-a2c0-5056b2359ce5.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/c81276ec-a758-4e3d-8902-cfd7f8d98579.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/38e79943-78c6-4011-a1a5-4b008bcf4be5.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/9eb196f3-66fa-4765-a49f-89f53a352d0b.jpg",
+  "https://cdn.poehali.dev/projects/f16b80dc-923f-4a9d-b2cf-886599d3e1f7/files/be1d23b1-52ab-48b4-8964-224ba6732398.jpg",
 ]
 
 export function CarouselSection() {
